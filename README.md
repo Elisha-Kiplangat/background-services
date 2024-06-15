@@ -1,8 +1,7 @@
 ```
-npm install
-npm run dev
+Nodecron
+```
+Node mailer
 ```
 
-```
-open http://localhost:3000
 ```
